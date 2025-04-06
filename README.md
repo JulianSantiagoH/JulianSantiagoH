@@ -1,4 +1,8 @@
-# 💫 About Me:👋 Hello, world! I'm a curious-minded frontend developer<br>
+
+<p align="center">
+  👋 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 I'm a passionate frontend developer who loves turning ideas into visual experiences. I enjoy creating clean, dynamic, and accessible interfaces, always paying attention to detail and eager to learn something new every day.<br><br>
 
 🎯 My focus: turning code into intuitive experiences. I enjoy both design and development, always aiming for the perfect balance between aesthetics and functionality.<br><br>
