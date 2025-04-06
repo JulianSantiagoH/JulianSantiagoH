@@ -50,6 +50,14 @@ I'm a passionate frontend developer who loves turning ideas into visual experien
   </tr>
 </table>
 
+# 🗂️ My Projects
+
+<a href="https://github.com/JulianSantiagoH/ToDoProject-React">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianSantiagoH&repo=ToDoProject-React&theme=onedark" />
+</a>    
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JulianSantiagoH&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=JulianSantiagoH&theme=tokyonight&hide_border=false)<br/>
