@@ -53,8 +53,9 @@ I'm a passionate frontend developer who loves turning ideas into visual experien
 # 🗂️ My Projects
 
 <a href="https://github.com/JulianSantiagoH/ToDoProject-React">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianSantiagoH&repo=ToDoProject-React&theme=onedark" />
-</a>    
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianSantiagoH&repo=ToDoProject-React&theme=onedark&cache_bust=1" />
+</a>
+
 
 
 
