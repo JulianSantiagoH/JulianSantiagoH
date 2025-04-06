@@ -18,7 +18,9 @@ I'm a passionate frontend developer who loves turning ideas into visual experien
 
 💡 My favorite tools: HTML, CSS, JavaScript, and React. Lately, I’ve been diving into TypeScript and TailwindCSS.<br><br>
 
-🚀 My motivation: contributing to meaningful projects, working with great teams, and sharing knowledge. Nothing excites me more than solving problems creatively.
+🚀 My motivation: contributing to meaningful projects, working with great teams, and sharing knowledge. Nothing excites me more than solving problems creatively.<br><br>
+
+🎯 My goal: to keep growing professionally, expanding my skills, and taking on new challenges that push me to become a better developer every day.
 
 
 ## 🌐 Socials:
