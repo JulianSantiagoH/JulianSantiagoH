@@ -24,8 +24,7 @@ I'm a passionate frontend developer who loves turning ideas into visual experien
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julian-santiago-herrera-rubiano) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juliansantiago.rubianoherrera@gmail.com) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julian-santiago-herrera-rubiano) 
 <table>
   <tr>
     <td valign="top">
