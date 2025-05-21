@@ -58,7 +58,7 @@ I'm a passionate frontend developer who loves turning ideas into visual experien
 </a>
 
 <a href="https://github.com/JulianSantiagoH/ChatGPT-UI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianSantiagoH&repo=ChatGPT-UI&theme=onedark&cache_bust=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianSantiagoH&repo=ChatGPT-UI&theme=onedark&cache_bust=1&cache_seconds=30" />
 </a>
 
 
