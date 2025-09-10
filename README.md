@@ -66,6 +66,9 @@ I'm a passionate frontend developer who loves turning ideas into visual experien
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianSantiagoH&repo=SpendingList-Nodejs&theme=onedark&cache_bust=1&cache_seconds=30" />
 </a>
 
+<a href="https://github.com/JulianSantiagoH/Product-List-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianSantiagoH&repo=Product-List-Project&theme=onedark&cache_bust=1" />
+</a>
 
 
 
